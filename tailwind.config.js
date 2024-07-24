@@ -5,6 +5,8 @@ export default {
     colors: {
       lightCyan: "#cfe3e8",
       neonGreen: "#52ffa8",
+      darkBlue: "#1f2633",
+      darkGrayish: "#303a4a",
       // ### Primary
       // - Light Cyan: hsl(193, 38%, 86%)#cfe3e8
       // - Neon Green: hsl(150, 100%, 66%)#52ffa8

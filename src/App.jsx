@@ -33,8 +33,8 @@ function App() {
   }
 
   return (
-    <div className="bg-[#1f2633] font-manrope h-screen  flex flex-col justify-center ">
-      <div className="bg-[#303a4a] pb-[55px] h-[332px] w-[343px] md:h-[332px] md:w-[540px] m-auto rounded-xl justify-evenly p-[24px] flex flex-col items-center relative ">
+    <div className="bg-darkBlue font-manrope h-screen  flex flex-col justify-center ">
+      <div className="bg-darkGrayish pb-[55px] h-[332px] w-[343px] md:h-[332px] md:w-[540px] m-auto rounded-xl justify-evenly p-[24px] flex flex-col items-center relative ">
         <h3 className=" text-xs tracking-[0.3rem]  text-neonGreen">
           ADVICE # {adviceNum}
         </h3>
